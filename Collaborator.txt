@@ -1,3 +1,4 @@
 Course name: CS 3141 - Team Software Project
 Section: R02
 Jamarri Jackson - jijackso@mtu.edu
+Charlotte Hildebrandt - childebr@mtu.edu
